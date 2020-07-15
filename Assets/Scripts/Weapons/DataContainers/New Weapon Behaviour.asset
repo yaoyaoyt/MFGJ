@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e99b75ab691345e4197055453492c17d, type: 3}
+  m_Name: New Weapon Behaviour
+  m_EditorClassIdentifier: 
+  axis: Fire1
+  direction: 1
+  directionOrigin: 1
+  originOffset: {x: 0, y: 0, z: 1}
+  firingMode: 0
+  recyclingTime: 0.15
+  burstRecyclingTime: 0.069
+  burstAmount: 3
